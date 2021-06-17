@@ -1,5 +1,8 @@
 # BEng-FYP-Pedestrian-Tracking
 
+This is a repo for my BEng FYP on Pedestrian Tracking. Included is the datasets and code used in the project
+
+
 Raw videos used as Datasets are given as mp4 files
 Output videos are given for each model for each video input and given as api files.
   Not all videos could be uploaded due to their size.   
